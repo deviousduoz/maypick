@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=6000&pause=300&color=F7A8D2&multiline=true&width=750&lines=%E2%80%81%E2%80%81%E2%80%81%E2%80%81%E2%80%81%E2%80%81and+maybe+i+will+see+you+again.+but+for+now%2C+its+goodbye)](https://git.io/typing-svg)
+ ![silies](https://komarev.com/ghpvc/?username=bountyhunterzz&color=fcaecf)
 
 <p align="center">                 
  <img src="https://files.catbox.moe/2fc9c7.webp" height="85" width=600">
