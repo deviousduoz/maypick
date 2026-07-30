@@ -1,4 +1,7 @@
- ![silies](https://komarev.com/ghpvc/?username=bountyhunterzz&color=fcaecf)
+
+<p align="center" 
+ 
+![silies](https://komarev.com/ghpvc/?username=bountyhunterzz&color=fcaecf)
 
 <p align="center">                 
  <img src="https://files.catbox.moe/2fc9c7.webp" height="85" width=600">
